@@ -1,5 +1,3 @@
-/TestResults
-/StringToExpression/bin
-/StringToExpression/obj
-/UnitTestProject/bin
-/UnitTestProject/obj
+bin/
+obj/
+.vs/
